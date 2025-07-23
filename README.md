@@ -52,7 +52,7 @@ The image random1.jpg exists in the correct folder
 The path to the image is correct in demo.py
 
 
-### 📄 License
+### License
 MIT License
 
 
