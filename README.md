@@ -1,21 +1,21 @@
 # Project: Image-to-Caption Generator using Generative AI
 This project demonstrates a simple pipeline to load, process, and analyze an image using a deep learning model. It uses Python and popular libraries like `Pillow` for image handling and can be extended to image classification, labeling, or other computer vision tasks.
 
-## 🖼️ What it Does
+## What it Does
 
 - Loads an image (`random1.jpg`)
 - Converts it to RGB
 - Passes it to a processing pipeline (e.g., a model for predictions or labeling)
 - Outputs results (e.g., label, name, or classification)
 
-## 🧰 Technologies Used
+## Technologies Used
 
 - Python 3.11
 - [Pillow (PIL)](https://pypi.org/project/Pillow/)
 - (Optional) Transformers or other image models from Hugging Face
 - OS module for path handling
 
-## 🗂️ Project Structure
+## Project Structure
 project_Image-to-Caption Generator using Generative AI/
 │
 ├── demo.py # Main Python script
@@ -25,7 +25,7 @@ project_Image-to-Caption Generator using Generative AI/
 
 
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -44,7 +44,7 @@ pip install Pillow
 python demo.py
 
 
-### ⚠️ Troubleshooting
+### Troubleshooting
 If you see a FileNotFoundError, make sure:
 
 The image random1.jpg exists in the correct folder
